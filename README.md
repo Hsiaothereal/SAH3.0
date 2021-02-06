@@ -1,5 +1,5 @@
 # 新手上路
-# tools :PHP、MySQL、Apache、VSC
+# Tools :PHP、MySQL、Apache、VSC
 
 #3.0 :登入、登出、註冊
 
